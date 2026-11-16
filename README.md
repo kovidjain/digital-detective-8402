@@ -7,14 +7,14 @@ This public repository contains the Digital Detective independent learning assig
 | Mission | Status | README |
 | --- | --- | --- |
 | 0 — Create your GitHub workspace | Complete | [mission-00-setup](mission-00-setup/README.md) |
-| 1 — Know your computer | Pending | [mission-01-computer-basics](mission-01-computer-basics/README.md) |
-| 2 — Become comfortable with the Terminal | Pending | [mission-02-terminal](mission-02-terminal/README.md) |
-| 3 — Understand the operating system | Pending | [mission-03-operating-system](mission-03-operating-system/README.md) |
-| 4 — How programs run | Pending | [mission-04-programs](mission-04-programs/README.md) |
-| 5 — Numbers and data | Pending | [mission-05-numbers-data](mission-05-numbers-data/README.md) |
-| 6 — Git and GitHub | Pending | [mission-06-git-github](mission-06-git-github/README.md) |
-| 7 — How computers communicate | Pending | [mission-07-networking](mission-07-networking/README.md) |
-| 8 — Final report and submission | Pending | [mission-08-final-report](mission-08-final-report/README.md) |
+| 1 — Know your computer | Complete | [mission-01-computer-basics](mission-01-computer-basics/README.md) |
+| 2 — Become comfortable with the Terminal | Complete | [mission-02-terminal](mission-02-terminal/README.md) |
+| 3 — Understand the operating system | Complete | [mission-03-operating-system](mission-03-operating-system/README.md) |
+| 4 — How programs run | Complete | [mission-04-programs](mission-04-programs/README.md) |
+| 5 — Numbers and data | Complete | [mission-05-numbers-data](mission-05-numbers-data/README.md) |
+| 6 — Git and GitHub | Complete | [mission-06-git-github](mission-06-git-github/README.md) |
+| 7 — How computers communicate | Complete | [mission-07-networking](mission-07-networking/README.md) |
+| 8 — Final report and submission | Complete | [mission-08-final-report](mission-08-final-report/README.md) |
 
 Each mission will be completed, documented, committed, and pushed separately before the next mission begins.
 
