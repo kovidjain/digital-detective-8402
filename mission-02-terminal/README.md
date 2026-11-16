@@ -1,5 +1,54 @@
 # Mission 2 — Become comfortable with the Terminal
 
+## 1. Task / objective
+
+Use the command line to inspect folders, practise safe file management, understand flags and pipes, and explain what package managers do.
+
+## 2. Work completed
+
+- Practised navigation and directory listings.
+- Created, copied, renamed, and displayed practice files inside `terminal-practice/`.
+- Compared normal, detailed, hidden-file, and human-readable listings.
+- Recorded a pipe example and explained the roles of both commands.
+- Checked the package-manager situation without installing or removing software.
+
+## 3. Commands / tools used
+
+- `pwd` — displayed the current directory.
+- `ls`, `ls -l`, and `ls -lah` — listed files with increasing detail.
+- `cd` — changed the current directory.
+- `mkdir` and `touch` — created the practice folder and an empty file.
+- `cp` and `mv` — copied and renamed the practice file.
+- `printf`, `cat`, and `wc -c` — wrote, displayed, and checked text files.
+- `head` and `awk` — limited and formatted a listing.
+- `brew --version` and `brew list` — checked Homebrew without changing installed packages.
+
+## 4. My understanding
+
+The current-directory command shows where a command will operate when I use a relative path. A normal listing shows visible entries, while `-l` adds file details, `-a` includes hidden entries, and `-h` makes sizes easier to read. A pipe sends the output from one command to the input of another, so small commands can be combined.
+
+`>` replaces a file's contents and `>>` adds text at the end. `cp` makes another copy while leaving the original in place, whereas `mv` moves or renames a path. A package manager helps find, install, update, and remove software while keeping track of dependencies.
+
+## 5. Difficulties faced
+
+It was important to avoid publishing local paths, account names, or package names in the evidence.
+
+## 6. How I resolved them
+
+I kept the practice files generic and recorded only privacy-safe observations. I did not install or remove any packages.
+
+## 7. Evidence / files
+
+- [Terminal notes](terminal-notes.md)
+- [CLI practice evidence](evidence/cli-session.md)
+- [Practice files](../terminal-practice/)
+
+## 8. Commit details
+
+Commit message: `Complete Terminal and file management mission`
+
+The completed Mission 2 files were committed and pushed to GitHub. No personal account, device, or network details are included.
+
 ## Mission title
 
 Become comfortable with the Terminal.
