@@ -1,44 +1,45 @@
 # Mission 1 — Know your computer
 
-## 1. Task / objective
+## Mission title
 
-Explain how a computer receives input, processes information, produces output, and stores results. Identify hardware, software, and three computer-based systems used in everyday life.
+Know your computer: computer activities, components, software, and everyday systems.
 
-## 2. Work completed
+## Task / objective
 
-- Traced creating and saving this mission report using IPOS.
-- Listed hardware and software examples with their classifications and purposes.
-- Compared an ATM, a traffic-light controller, and a supermarket self-checkout.
-- Added the required tables and explanations in this mission folder.
+I needed to explain how a computer activity moves through input, processing, output, and storage (IPOS). I also needed to identify hardware and software, then connect those ideas to familiar computer-based systems.
 
-## 3. Commands / tools used
+## Work completed
 
-- Markdown tables — used to record the IPOS, hardware/software, and everyday-system examples.
-- Text editor — used to write and review the mission notes.
-- Git — used to save this mission as a separate commit and publish it.
+- Completed Task 1.1 with an IPOS table for creating and saving a school assignment.
+- Completed Task 1.2 with hardware items, software examples, classifications, software types, and purposes.
+- Completed Task 1.3 with three everyday computer-based systems and their purposes, inputs, and outputs.
+- Kept the examples general so they do not include personal, device, or network details.
 
-## 4. My understanding
+## Commands / tools used
 
-IPOS is a simple way to follow information through a computer system. Input enters through something such as a keyboard, card reader, or sensor. The processor and memory work with that information, the result is shown or produced as output, and useful data can be saved for later. Hardware is the physical equipment, while software gives that equipment instructions.
+- Markdown — wrote the explanations, tables, and links.
+- Git — tracked the Mission 1 changes.
+- GitHub — stored and reviewed the completed mission.
 
-The examples also showed that the same basic pattern appears in systems that do not look like ordinary computers. An ATM, traffic-light controller, and self-checkout each accept input, process it, and produce a useful result.
+## My understanding
 
-## 5. Difficulties faced
+I understand IPOS as a repeating flow rather than four completely separate steps. For example, when I create an assignment, the keyboard and touchpad provide input, the processor and memory handle the work, the screen shows the result, and storage keeps the file so it can be used again. Hardware is the physical part of the system, while software gives the hardware instructions.
 
-No major difficulties.
+## Difficulties faced
 
-## 6. How I resolved them
+The main difficulty was separating a computer activity into clear stages without treating every action as only input or only output.
 
-Not applicable.
+## How I resolved them
 
-## 7. Evidence / files
+I followed one realistic activity from start to finish and listed what happens at each stage. I also used separate tables for hardware, software, and everyday systems so that classifications and purposes stayed clear.
 
-- [IPOS activity](ipos.md)
-- [Hardware and software](hardware-software.md)
-- [Everyday computer systems](everyday-systems.md)
+## Evidence / files
 
-## 8. Commit details
+- [`ipos-activity.md`](ipos-activity.md) — Task 1.1 IPOS table and flow explanation.
+- [`components-and-systems.md`](components-and-systems.md) — Task 1.2 hardware and software examples plus Task 1.3 everyday systems.
+
+## Commit details
 
 Commit message: `Complete computer basics and IPOS mission`
 
-The completed Mission 1 files were committed and pushed to GitHub. No personal device, account, or network details are included.
+Only Mission 1 files are included in this mission commit. The completed work is pushed to the `main` branch for manual review.
